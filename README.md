@@ -1,4 +1,5 @@
 # Angular Library 
+Kindly consider leaving a :star: if you like the repository.
 
 #### [Live Preview](https://angular-library-pwa.vercel.app/)
 
